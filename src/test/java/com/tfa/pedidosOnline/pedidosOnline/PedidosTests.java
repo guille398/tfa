@@ -7,10 +7,10 @@ import org.testng.annotations.Test;
 
 
 
-public class PedidosTests {
+/*public class PedidosTests {
 	public String baseurl = "http://www.pymesonline.ga/Account/Login";
 	
-	@Test
+	/*@Test
 	public void realizarPedido() throws Exception{
 		//inicia el Chrome  
     	System.setProperty("webdriver.chrome.driver","C:\\Users\\aaguirre\\workspace\\pedidosOnline\\chromedriver.exe");
@@ -59,4 +59,4 @@ public class PedidosTests {
     	driver.quit();
 	}
 	
-}
+}*/
